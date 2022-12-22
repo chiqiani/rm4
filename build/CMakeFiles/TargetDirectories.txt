@@ -1,0 +1,3 @@
+/home/dqs/桌面/c++ 部署yolov5到openvino/build/CMakeFiles/yolov5_rm4.dir
+/home/dqs/桌面/c++ 部署yolov5到openvino/build/CMakeFiles/edit_cache.dir
+/home/dqs/桌面/c++ 部署yolov5到openvino/build/CMakeFiles/rebuild_cache.dir
